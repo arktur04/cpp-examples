@@ -1,0 +1,1 @@
+This project demostrates how to use std::promise and std::future for a thread synchronization. In this example 1000 threads are created, and they are waiting for a share future object. When we set a promise value, all threads start simultaneously.
